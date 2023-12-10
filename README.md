@@ -1,4 +1,4 @@
-# Nombre del Proyecto: Chatbot con Langchain y OpenAI para ClickUp
+# Slack Chatbot con Langchain y OpenAI 
 
 ## Descripción
 Este proyecto consiste en un chatbot  desarrollado con Langchain y OpenAI, diseñado para tomar deciciones y llamar a servicios externos en este caso ClickUP ,
